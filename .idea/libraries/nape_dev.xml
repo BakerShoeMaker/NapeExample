@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="nape-dev" type="flex">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/nape-dev.swc!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
